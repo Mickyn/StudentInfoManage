@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="StudentInfoManage">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentInfoManage</output-path>
+    <root id="root">
+      <element id="archive" name="StudentInfoManage.jar">
+        <element id="module-output" name="StudentInfoManage" />
+      </element>
+    </root>
+  </artifact>
+</component>
